@@ -1,0 +1,32 @@
+D:\WORKS\Programming\2024\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.exe
+D:\WORKS\Programming\2024\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.deps.json
+D:\WORKS\Programming\2024\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.runtimeconfig.json
+D:\WORKS\Programming\2024\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.dll
+D:\WORKS\Programming\2024\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.pdb
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.Form1.resources
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.csproj.GenerateResource.cache
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.AssemblyInfoInputs.cache
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.AssemblyInfo.cs
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.csproj.CoreCompileInputs.cache
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.dll
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\refint\Estudantes.dll
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.pdb
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.genruntimeconfig.cache
+D:\WORKS\Programming\2024\C#\Estudantes\obj\Debug\net8.0-windows\ref\Estudantes.dll
+E:\Faculdade Chel\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.exe
+E:\Faculdade Chel\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.deps.json
+E:\Faculdade Chel\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.runtimeconfig.json
+E:\Faculdade Chel\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.dll
+E:\Faculdade Chel\C#\Estudantes\bin\Debug\net8.0-windows\Estudantes.pdb
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.Form1.resources
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.csproj.GenerateResource.cache
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.AssemblyInfoInputs.cache
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.AssemblyInfo.cs
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.csproj.CoreCompileInputs.cache
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.dll
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\refint\Estudantes.dll
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.pdb
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\Estudantes.genruntimeconfig.cache
+E:\Faculdade Chel\C#\Estudantes\obj\Debug\net8.0-windows\ref\Estudantes.dll
